@@ -1,4 +1,0 @@
-pyglet
-pywin32
-requests
-psutil
