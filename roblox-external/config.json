@@ -1,0 +1,30 @@
+{
+    "ENABLE_ESP": true,
+    "ENABLE_TRACERS": false,
+    "ENABLE_DOT": true,
+    "ENABLE_NAME": false,
+    "ENABLE_DISTANCE": false,
+    "ENABLE_HEALTH": true,
+    "ENABLE_DISTANCE_LIMIT": true,
+    "MAX_DISTANCE": 600,
+    "DOT_RADIUS": 4.0,
+    "FONT_SIZE_INDEX": 5,
+    "TRACER_ORIGIN": "Center",
+    "TEXT_POSITION": "Top",
+    "TRACER_COLOR": [
+        255,
+        255,
+        255
+    ],
+    "DOT_COLOR": [
+        255,
+        0,
+        255
+    ],
+    "NAME_COLOR": [
+        255,
+        255,
+        255,
+        255
+    ]
+}
