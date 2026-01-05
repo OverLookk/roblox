@@ -1,0 +1,39 @@
+{
+    "ENABLE_ESP": true,
+    "ENABLE_TRACERS": false,
+    "ENABLE_DOT": true,
+    "ENABLE_NAME": false,
+    "ENABLE_DISTANCE": false,
+    "ENABLE_HEALTH": true,
+    "ENABLE_DISTANCE_LIMIT": true,
+    "ENABLE_TEAM_CHECK": false,
+    "MAX_DISTANCE": 600,
+    "DOT_RADIUS": 1.9423076923076923,
+    "FONT_SIZE_INDEX": 5,
+    "TRACER_ORIGIN": "Center",
+    "TEXT_POSITION": "Top",
+    "TRACER_COLOR": [
+        255,
+        255,
+        255
+    ],
+    "DOT_COLOR": [
+        255,
+        0,
+        255
+    ],
+    "NAME_COLOR": [
+        255,
+        255,
+        255,
+        255
+    ],
+    "ENABLE_TRIGGERBOT": true,
+    "TRIGGER_MODE": "Click",
+    "TRIGGER_DELAY": 0,
+    "TRIGGER_FOV": 30,
+    "TRIGGER_KEY": 6,
+    "RAPID_FIRE": false,
+    "RAPID_DELAY": 50,
+    "MAX_HEALTH": 100.0
+}
