@@ -1,0 +1,6 @@
+pymem
+pywin32
+pyglet
+keyboard
+mouse
+requests
